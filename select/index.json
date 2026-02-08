@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Orange",
+  "base_artist": "the shes gone",
+  "createdAt": "2026-02-08T21:55:45.206099Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Something in the Orange",
+      "artist": "Zach Bryan",
+      "has_synced": true,
+      "path": "select/01_Something_in_the_Orange_Zach_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Orange Blossom Special",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/02_Orange_Blossom_Special_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Orange Blossom Special",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/03_Orange_Blossom_Special_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Orange Blossom Special (Live Version)",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/04_Orange_Blossom_Special_(Live_Version)_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Something in the Orange - Z&E's Version",
+      "artist": "Zach Bryan",
+      "has_synced": true,
+      "path": "select/05_Something_in_the_Orange_-_Z&E's_Version_Zach_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tennessee Orange",
+      "artist": "Megan Moroney",
+      "has_synced": true,
+      "path": "select/06_Tennessee_Orange_Megan_Moroney.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Orange Time Machines Care",
+      "artist": "A Lot Like Birds",
+      "has_synced": true,
+      "path": "select/07_Orange_Time_Machines_Care_A_Lot_Like_Birds.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bruised Orange (Chain of Sorrow)",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/08_Bruised_Orange_(Chain_of_Sorrow)_Bon_Iver.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Orange Chicken",
+      "artist": "Lil Tracy",
+      "has_synced": false,
+      "path": "select/09_Orange_Chicken_Lil_Tracy.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Giving Me Life (feat. Slick Rick & Blood Orange)",
+      "artist": "Mariah Carey feat. Slick Rick & Blood Orange",
+      "has_synced": true,
+      "path": "select/10_Giving_Me_Life_(feat._Slick_Rick_&_Blood_Orange)_Mariah_Carey_feat._Slick_Rick_&_Blood_Orange.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Giving Me Life (featuring Slick Rick & Blood Orange)",
+      "artist": "Mariah Carey",
+      "has_synced": false,
+      "path": "select/11_Giving_Me_Life_(featuring_Slick_Rick_&_Blood_Orange)_Mariah_Carey.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Margiela Problems (feat. Blood Orange)",
+      "artist": "MadeinTYO feat. Blood Orange",
+      "has_synced": true,
+      "path": "select/12_Margiela_Problems_(feat._Blood_Orange)_MadeinTYO_feat._Blood_Orange.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Margiela Problems (ft. Blood Orange)",
+      "artist": "MadeinTYO",
+      "has_synced": true,
+      "path": "select/13_Margiela_Problems_(ft._Blood_Orange)_MadeinTYO.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Orange Cymbals",
+      "artist": "Nurses",
+      "has_synced": false,
+      "path": "select/14_Orange_Cymbals_Nurses.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Orange",
+      "artist": "Juice!",
+      "has_synced": false,
+      "path": "select/15_Orange_Juice!.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Frozen Orange Juice",
+      "artist": "Peter Sarstedt",
+      "has_synced": true,
+      "path": "select/16_Frozen_Orange_Juice_Peter_Sarstedt.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Orange",
+      "artist": "the shes gone",
+      "has_synced": false,
+      "path": "select/pl_01_Orange_the_shes_gone.txt"
+    }
+  ]
+}
